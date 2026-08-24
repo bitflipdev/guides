@@ -1,2 +1,4 @@
 # guide
-leetcode and programming guides from my youtube tutorials
+leetcode and programming guides from Bitflip's youtube tutorials
+
+<https://www.youtube.com/@bitflipdev>
